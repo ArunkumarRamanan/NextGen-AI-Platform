@@ -1,6 +1,8 @@
 
 Next-Gen AI Platform Product project 
-Product Project: Next-Gen AI Platform - Unlocking Sustainable Growth and Streamlined Business Processes with Universal AI Solutions
+
+Product Project: Next-Gen AI Platform - Unlocking Sustainable Growth and Streamlined Business Processes with Universal AI uAI Solutions
+
 DeepBrainz uAI: A Human-Centered Enterprise AI Platform
 Universal AI: Learn, Adapt, Evolve
 Universal Bot: Automate Your Tasks
